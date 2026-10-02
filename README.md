@@ -1,16 +1,35 @@
-## Hi there 👋
+![Mi animación](paulina_intro.gif)
 
-<!--
-**paulinaguers/paulinaguers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! I'm Paulina 👋
 
-Here are some ideas to get you started:
+Data Science student at **Universidad Austral** 🇦🇷. Passionate about uncovering stories and meaningful insights hidden within data through statistical analysis, data visualization, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 **Education:** B.S. in Data Science (*Universidad Austral*)
+- 💡 **Academic Interests:** Data Analysis, Data Visualization, Applied Statistics, Quantum Computing and Neuroscience
+- 💬 **Current Focus:** Mastering data manipulation, exploratory data analysis (EDA), and effective visualization using Python and R.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python | R
+- **IDEs & Environments:** VS Code | Jupyter Notebooks | RStudio
+- **Libraries & Tooling:** 
+  - *R:* `tidyverse` (`ggplot2`, `dplyr`, `readr`, `janitor`, `lubridate`)
+  - *Python:* `pandas`, `numpy`
+  - *Reporting & Version Control:* Quarto, RMarkdown, Git & GitHub
+
+---
+
+### 📚 Projects & Code Showcase
+*Currently building my first academic data analysis projects and explorative scripts.*
+
+- 📌 **[Academic Project / Dataset Analysis]**: Exploratory data analysis (EDA) using R / Python. *(Coming soon)*
+- 📌 **Data Science Learning Journey**: A collection of notes, practice scripts, and data manipulation workflows in Python and R.
+
+---
+
+### 📫 Connect with Me
+- ✉️ Email: paugrscovich@gmail.com

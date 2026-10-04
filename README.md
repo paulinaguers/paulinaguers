@@ -13,7 +13,7 @@ Data Science student at **Universidad Austral** 🇦🇷. Passionate about uncov
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools (working on it :)
 - **Languages:** Python | R
 - **IDEs & Environments:** VS Code | Jupyter Notebooks | RStudio
 - **Libraries & Tooling:** 

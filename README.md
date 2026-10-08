@@ -1,35 +1,40 @@
-![Mi animación](paulina_intro.gif)
+<p align="center">
+  <img src="banner.gif" alt="Paulina Guerscovich: statistics, neuroscience, quantum. Data Science at Universidad Austral." width="100%">
+</p>
 
-# Hey there! I'm Paulina 👋
+## about me
 
-Data Science student at **Universidad Austral** 🇦🇷. Passionate about uncovering stories and meaningful insights hidden within data through statistical analysis, data visualization, and programming.
+I study **Data Science** at the Faculty of Engineering of the *Universidad Austral*, in Rosario, Argentina.
 
----
+Statistics is the thing that hooked me: the idea that a handful of well-chosen numbers can tell you what a messy world is actually doing. Down the road I want to take that toward **neuroscience** and **quantum computing**, two fields where good data analysis still has a lot of unexplored ground.
 
-### 🚀 About Me
-- 🎓 **Education:** B.S. in Data Science (*Universidad Austral*)
-- 💡 **Academic Interests:** Data Analysis, Data Visualization, Applied Statistics, Quantum Computing and Neuroscience
-- 💬 **Current Focus:** Mastering data manipulation, exploratory data analysis (EDA), and effective visualization using Python and R.
+Outside the screen, I'm a member of the **Argentine national fencing team**, I'm always listening to music, and I write: essays, fiction and the occasional post on [Substack](https://substack.com/@pauugrssco) (when inspired).
 
----
+## currently
 
-### 🛠️ Tech Stack & Tools (working on it :)
-- **Languages:** Python | R
-- **IDEs & Environments:** VS Code | Jupyter Notebooks | RStudio
-- **Libraries & Tooling:** 
-  - *R:* `tidyverse` (`ggplot2`, `dplyr`, `readr`, `janitor`, `lubridate`)
-  - *Python:* `pandas`, `numpy`
-  - *Reporting & Version Control:* Quarto, RMarkdown, Git & GitHub
+- Learning to wrangle and explore data in **R** (tidyverse) and **Python** (pandas, numpy)
+- Practicing exploratory data analysis and, above all, clear visualization
+- Writing reproducible reports with **Quarto**
 
----
+## tools
 
-### 📚 Projects & Code Showcase
-*Currently building my first academic data analysis projects and explorative scripts.*
+| | |
+|---|---|
+| **languages** | Python · R |
+| **environments** | VS Code · Jupyter · RStudio |
+| **R** | `tidyverse` · `ggplot2` · `dplyr` · `readr` · `janitor` · `lubridate` |
+| **Python** | `pandas` · `numpy` |
+| **reporting & versioning** | Quarto · RMarkdown · Git & GitHub |
 
-- 📌 **[Academic Project / Dataset Analysis]**: Exploratory data analysis (EDA) using R / Python. *(Coming soon)*
-- 📌 **Data Science Learning Journey**: A collection of notes, practice scripts, and data manipulation workflows in Python and R.
+## projects
 
----
+| project | what it is | stack |
+|---|---|---|
+| *first EDA project* | Exploratory analysis of a real dataset (in progress) | R |
+| *learning journey* | Notes, practice scripts and data-manipulation workflows | Python · R |
 
-### 📫 Connect with Me
-- ✉️ Email: paugrscovich@gmail.com
+*More coming as I build them.*
+
+## say hi
+
+[LinkedIn](https://linkedin.com/in/tu-usuario) · [Substack](https://substack.com/@tu-usuario)

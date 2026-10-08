@@ -2,7 +2,7 @@
   <img src="banner.gif" alt="Paulina Guerscovich: statistics, neuroscience, quantum. Data Science at Universidad Austral." width="100%">
 </p>
 
-## about me
+## .𖥔 ݁ ˖ About me
 
 I study **Data Science** at the Faculty of Engineering of the *Universidad Austral*, in Rosario, Argentina.
 
@@ -10,13 +10,13 @@ Statistics is the thing that hooked me: the idea that a handful of well-chosen n
 
 Outside the screen, I'm a member of the **Argentine national fencing team**, I'm always listening to music, and I write: essays, fiction and the occasional post on [Substack](https://substack.com/@pauugrssco) (when inspired).
 
-## currently
+## Currently ⋆.ೃ࿔*:･
 
 - Learning to wrangle and explore data in **R** (tidyverse) and **Python** (pandas, numpy)
 - Practicing exploratory data analysis and, above all, clear visualization
 - Writing reproducible reports with **Quarto**
 
-## tools
+## ✎﹏Tools
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@ Outside the screen, I'm a member of the **Argentine national fencing team**, I'm
 | **Python** | `pandas` · `numpy` |
 | **reporting & versioning** | Quarto · RMarkdown · Git & GitHub |
 
-## projects
+## Projects .𖥔 ݁ ˖ִ🛸༄˖°.
 
 | project | what it is | stack |
 |---|---|---|
@@ -35,6 +35,6 @@ Outside the screen, I'm a member of the **Argentine national fencing team**, I'm
 
 *More coming as I build them.*
 
-## say hi
+## Reach out! 𖹭.ᐟ✷
 
-[LinkedIn](https://linkedin.com/in/tu-usuario) · [Substack](https://substack.com/@tu-usuario)
+[Mail](paugrscovich@gmail.com) [Phone Number](+54 341 663 0737)

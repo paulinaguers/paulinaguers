@@ -10,13 +10,13 @@ Statistics is the thing that hooked me: the idea that a handful of well-chosen n
 
 Outside the screen, I'm a member of the **Argentine national fencing team**, I'm always listening to music, and I write: essays, fiction and the occasional post on [Substack](https://substack.com/@pauugrssco) (when inspired).
 
-## Currently ⋆.ೃ࿔*:･
+## Currently working on ⋆.ೃ࿔*:･
 
 - Learning to wrangle and explore data in **R** (tidyverse) and **Python** (pandas, numpy)
 - Practicing exploratory data analysis and, above all, clear visualization
 - Writing reproducible reports with **Quarto**
 
-## ✎﹏Tools
+## ✎﹏Tools (becoming acquainted with):
 
 | | |
 |---|---|
@@ -37,4 +37,4 @@ Outside the screen, I'm a member of the **Argentine national fencing team**, I'm
 
 ## Reach out! 𖹭.ᐟ✷
 
-[Mail](paugrscovich@gmail.com) [Phone Number](+54 341 663 0737)
+[Mail](paugrscovich@gmail.com) 

@@ -87,13 +87,15 @@ I believe some of the most interesting questions emerge where different discipli
 
 <br/><br/>
 
-**Exploring the foundations of**
+**Academic foundations**
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=linux,bash,latex&theme=dark" />
-
-</div>
+<img src="https://img.shields.io/badge/Statistics-26283A?style=flat-square" />
+<img src="https://img.shields.io/badge/Discrete_Mathematics-26283A?style=flat-square" />
+<img src="https://img.shields.io/badge/Probability-26283A?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Mining-26283A?style=flat-square" />
+<img src="https://img.shields.io/badge/Mathematical_Logic-26283A?style=flat-square" />
 
 ---
 
@@ -101,13 +103,11 @@ I believe some of the most interesting questions emerge where different discipli
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=paulinaguers&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A99BFF&icon_color=A99BFF&text_color=C9D1D9&rank_icon=github" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api?username=paulinaguers&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A99BFF&icon_color=A99BFF&text_color=C9D1D9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinaguers&layout=compact&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=C9D1D9" />
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=paulinaguers&bg_color=0D1117&color=A99BFF&line=8B7CF6&point=C9D1D9&area=true&hide_border=true" />
+<img height="165"
+src="https://github-stats-extended.vercel.app/api/top-langs?username=paulinaguers&layout=compact&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=C9D1D9" />
 
 </div>
 

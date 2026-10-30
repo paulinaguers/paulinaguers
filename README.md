@@ -1,98 +1,128 @@
-<p align="center">
-  <img src="banner.gif" alt="Paulina Guerscovich: statistics, neuroscience, quantum. Data Science at Universidad Austral." width="100%">
-</p>
+ 
+<div align="center">
 
-<a name="lang"></a>
-<p align="center">
-  <a href="#en"><img src="lang_en.png" alt="Read it in English" width="190"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#es"><img src="lang_es.png" alt="Léelo en español" width="190"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=3500&pause=1000&color=9B8AFB&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Paulina+Guerscovich.;Data+Science+student+at+Universidad+Austral.;Learning+to+turn+data+into+understanding." alt="Typing SVG" />
 
-<p align="center"><sub><i>pick a stamp · elegí un sello</i></sub></p>
+<br/>
 
----
+**DATA SCIENCE · MATHEMATICS · COMPUTATIONAL THINKING**
 
-<h2 align="center"><a name="en"></a>English</h2>
+<br/>
 
-## .𖥔 ݁ ˖ About me
+[![GitHub](https://img.shields.io/badge/GitHub-181825?style=flat-square&logo=github&logoColor=white)](https://github.com/paulinaguers)
+[![University](https://img.shields.io/badge/Universidad_Austral-181825?style=flat-square&logoColor=white)](https://www.austral.edu.ar/)
+[![English](https://img.shields.io/badge/English-CAE_C1-181825?style=flat-square)](#)
 
-I study **Data Science** at the Faculty of Engineering of the *Universidad Austral*, in Rosario, Argentina.
-
-Statistics is the thing that hooked me most: the idea that a handful of well-chosen numbers can give you a valuable insight into what is actually taking place in the messy world we live in completely mesmerizes me. Down the road I look forward to taking that toward **neuroscience** and **quantum computing**, two fields where solid data analysis still has a lot of unexplored ground.
-
-Outside the screen, I'm a member of the **Argentine national fencing team** 🇦🇷 🤺, I'm always listening to music (my headphones being in my backpack is a constant), and I write: essays, fiction and the occasional post on [Substack](https://substack.com/@pauugrssco) (when inspired).
-
-## Currently working on ⋆.ೃ࿔*:･
-
-- Learning to wrangle and explore data in **R** (tidyverse) and **Python** (pandas, numpy)
-- Practicing exploratory data analysis and, above all, clear visualization
-- Writing reproducible reports with **Quarto**
-
-## ✎﹏Tools (becoming acquainted with):
-
-| | |
-|---|---|
-| **languages** | Python · R |
-| **environments** | VS Code · Jupyter · RStudio |
-| **R** | `tidyverse` · `ggplot2` · `dplyr` · `readr` · `janitor` · `lubridate` |
-| **Python** | `pandas` · `numpy` |
-| **reporting & versioning** | Quarto · RMarkdown · Git & GitHub |
-
-## Projects .𖥔 ݁ ˖ִ🛸༄˖°.
-
-| project | what it is | stack |
-|---|---|---|
-| *first EDA project* | Exploratory analysis of a real dataset (in progress) | R |
-| *learning journey* | Notes, practice scripts and data-manipulation workflows | Python · R |
-
-*More coming as I build them.*
-
-## Reach out! 𖹭.ᐟ✷
-
-[Mail](mailto:paugrscovich@gmail.com)
-
-<p align="right"><a href="#lang">↑ back to the stamps</a></p>
+</div>
 
 ---
 
-<h2 align="center"><a name="es"></a>Español</h2>
+### `01` — About me
 
-## .𖥔 ݁ ˖ Sobre mí
+I'm **Paulina**, a Data Science student at **Universidad Austral**, Argentina.
 
-Estudio **Ciencia de Datos** en la Facultad de Ingeniería de la *Universidad Austral*, en Rosario, Argentina.
+Currently building my foundations in programming, mathematics and statistical thinking, while exploring how data can help us understand complex systems and uncover meaningful patterns.
 
-La Estadística me emblesó por completo: pensar que con tan sólo un puñado de números bien elegidos podemos entender lo que está ocurriendo en un mundo totalmente caótico me parece fascinante. A futuro quiero llevar eso hacia la **neurociencia** y la **computación cuántica**, dos campos donde el buen análisis de datos todavía tiene mucho terreno por explorar.
+I'm particularly interested in the intersection of **data science, neuroscience, sports analytics and quantum computing**.
 
-Fuera de la pantalla, soy integrante de la **selección argentina de esgrima** 🇦🇷 🤺, escucho música todo el tiempo (los auriculares en mi mochila son una constante) y escribo: ensayos, ficción y algún que otro post en [Substack](https://substack.com/@pauugrssco) (cuando me inspiro).
+I believe some of the most interesting questions emerge where different disciplines meet.
 
-## Trabajando ahora en ⋆.ೃ࿔*:･
+---
 
-- Aprendiendo a limpiar y explorar datos en **R** (tidyverse) y **Python** (pandas, numpy)
-- Practicando análisis exploratorio de datos y, sobre todo, visualización clara
-- Armando informes reproducibles con **Quarto**
+### `02` — Currently exploring
 
-## ✎﹏Herramientas (conociéndolas de a poco):
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | |
-|---|---|
-| **lenguajes** | Python · R |
-| **entornos** | VS Code · Jupyter · RStudio |
-| **R** | `tidyverse` · `ggplot2` · `dplyr` · `readr` · `janitor` · `lubridate` |
-| **Python** | `pandas` · `numpy` |
-| **informes y versionado** | Quarto · RMarkdown · Git y GitHub |
+**⌘ Programming & Data**
 
-## Proyectos .𖥔 ݁ ˖ִ🛸༄˖°.
+- Python
+- R / RStudio
+- Data manipulation
+- Data mining models
+- Exploratory data analysis
 
-| proyecto | qué es | stack |
-|---|---|---|
-| *primer proyecto de EDA* | Análisis exploratorio de un dataset real (en proceso) | R |
-| *camino de aprendizaje* | Apuntes, scripts de práctica y flujos de manipulación de datos | Python · R |
+</td>
+<td width="50%" valign="top">
 
-*Más por venir a medida que los vaya armando.*
+**∑ Mathematical foundations**
 
-## ¡Escribime! 𖹭.ᐟ✷
+- Statistics & probability
+- Discrete mathematics
+- Mathematical logic
+- Algorithms & computational thinking
+- Mathematical modeling
 
-[Mail](mailto:paugrscovich@gmail.com)
+</td>
+</tr>
+</table>
 
-<p align="right"><a href="#lang">↑ volver a los sellos</a></p>
+---
+
+### `03` — Areas of curiosity
+
+<div align="center">
+
+| FIELD | WHAT INTERESTS ME |
+|:---|:---|
+| 🧠 **Neuroscience** | Understanding the brain, cognition and human behavior |
+| ⚔️ **Sports Analytics** | Performance, strategy and statistical insights in sports |
+| ◈ **Quantum Computing** | New computational paradigms and their possibilities |
+| ⌘ **Data Science** | Finding patterns, building models and extracting knowledge |
+
+</div>
+
+---
+
+### `04` — Tech stack & tools
+
+<div align="center">
+
+**Currently learning**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,r,vscode,git,github&theme=dark" />
+
+<br/><br/>
+
+**Exploring the foundations of**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=linux,bash,latex&theme=dark" />
+
+</div>
+
+---
+
+### `05` — GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=paulinaguers&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A99BFF&icon_color=A99BFF&text_color=C9D1D9&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinaguers&layout=compact&hide_border=true&bg_color=0D1117&title_color=A99BFF&text_color=C9D1D9" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=paulinaguers&bg_color=0D1117&color=A99BFF&line=8B7CF6&point=C9D1D9&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Always learning. Always questioning.
+
+*Somewhere between mathematics, code and curiosity.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" />
+
+<sub>© Paulina Guerscovich · 2026</sub>
+
+</div>

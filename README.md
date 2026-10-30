@@ -1,18 +1,5 @@
- 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=19&duration=3500&pause=1000&color=9B8AFB&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Paulina+Guerscovich.;Data+Science+student+at+Universidad+Austral.;Learning+to+turn+data+into+understanding." alt="Typing SVG" />
-
-<br/>
-
-**DATA SCIENCE · MATHEMATICS · COMPUTATIONAL THINKING**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181825?style=flat-square&logo=github&logoColor=white)](https://github.com/paulinaguers)
-[![University](https://img.shields.io/badge/Universidad_Austral-181825?style=flat-square&logoColor=white)](https://www.austral.edu.ar/)
-[![English](https://img.shields.io/badge/English-CAE_C1-181825?style=flat-square)](#)
-
+  <img src="assets/header.png" width="100%" alt="Paulina Guerscovich — Data Science Portfolio"/>
 </div>
 
 ---
